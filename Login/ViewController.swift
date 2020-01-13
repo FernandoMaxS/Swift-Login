@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Inicio de la aplicacion Login")
+        let today=NSDate()
+        print(today)
     }
 
 
